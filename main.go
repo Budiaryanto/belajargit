@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("testing user ke 2")
+	var nama string = "Ari"
+	fmt.Printf("testing %s\n", nama)
 
 }
